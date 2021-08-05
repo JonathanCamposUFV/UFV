@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main {
+	
+	//variaveis
+	double A, B, total, resto;
+	
+
+}
