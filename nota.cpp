@@ -16,8 +16,8 @@ int main() {
 		cout << "Aprovado" << endl;
 	else if (totalnota >=40)
 		cout << "Prova Final" << endl;
-	else 
-		cout << "Reprovado" << endl;
+		else 
+			cout << "Reprovado" << endl;
 	
 
 	return 0;
